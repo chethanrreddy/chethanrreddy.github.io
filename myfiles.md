@@ -5,6 +5,11 @@ permalink: //myfiles/
 ---
 My work, CV, transcripts and such:
 
+Work:
+
++ [Bosch Relieving Letter](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Bosch_Relieving_Letter.pdf)
++ [Bosch Service Letter](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Bosch_Service_Certificate.pdf)
+
 [Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
 
 Master of Technology (Mechatronics Engineering) - National Institute of Technology Karnataka, Surathkal (INDIA):
