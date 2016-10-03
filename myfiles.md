@@ -11,6 +11,7 @@ Work:
 + [Bosch Service Letter](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Bosch_Service_Certificate.pdf)
 
 [Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
+[Curriculum Vitae - Print Version](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV_Short-PrintVersion.pdf)
 
 Master of Technology (Mechatronics Engineering) - National Institute of Technology Karnataka, Surathkal (INDIA):
 
