@@ -14,6 +14,10 @@ Work:
 
 [Curriculum Vitae - Print Version](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV_Short-PrintVersion.pdf)
 
+Doctor of philosophy (Mechanical Engineering - Engineering Mechanics) - Michigan Technological University (USA) - Currently pursuing:
+
++ [PhD Transcripts (Unofficial)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/phd_unofficial_transcripts.pdf)
+
 Master of Technology (Mechatronics Engineering) - National Institute of Technology Karnataka, Surathkal (INDIA):
 
 + [M.Tech United States GPA equivalency](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTechGPA_WES.pdf) Source - [WES](https://www.wes.org/)
