@@ -1,4 +1,9 @@
-﻿My work, CV, transcripts and such:
+﻿---
+layout: page
+title: My Files
+permalink: //myfiles/
+---
+My work, CV, transcripts and such:
 
 Work:
 
