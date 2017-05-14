@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: My Files
 permalink: //myfiles/
@@ -12,7 +12,7 @@ Work:
 
 [Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
 
-[Curriculum Vitae - Print Version](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV_Short-PrintVersion.pdf)
+[Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
 
 Doctor of philosophy (Mechanical Engineering - Engineering Mechanics) - Michigan Technological University (USA) - Currently pursuing:
 
