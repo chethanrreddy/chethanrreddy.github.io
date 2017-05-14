@@ -16,7 +16,7 @@ Work:
 
 Doctor of philosophy (Mechanical Engineering - Engineering Mechanics) - Michigan Technological University (USA) - Currently pursuing:
 
-+ [PhD Transcripts (Unofficial)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/phd_unofficial_transcripts.pdf)
++ [PhD Transcripts (Unofficial)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTU Unofficial Transcripts.pdf)
 
 Master of Technology (Mechatronics Engineering) - National Institute of Technology Karnataka, Surathkal (INDIA):
 
