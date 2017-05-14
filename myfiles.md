@@ -1,4 +1,9 @@
-﻿My work, CV, transcripts and such:
+﻿---
+layout: page
+title: My Files
+permalink: //myfiles/
+---
+My work, CV, transcripts and such:
 
 Work:
 
@@ -18,7 +23,7 @@ Master of Technology (Mechatronics Engineering) - National Institute of Technolo
 + [M.Tech United States GPA equivalency](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTechGPA_WES.pdf) Source - [WES](https://www.wes.org/)
 + [M.Tech Internship Report](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTech_Internship_report.pdf)
 + [M.Tech Thesis - Development of Automotive Thermoelectric Generators](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTech_Thesis.pdf)
-+ [ M.Tech Project Internship Certification – Robert Bosch Engineering & Business Solutions Private Limited (RBEI), Bangalore (INDIA)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Mtech_Internship_letter_correct.pdf)
++ [M.Tech Project Internship Certification – Robert Bosch Engineering & Business Solutions Private Limited (RBEI), Bangalore (INDIA)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Mtech_Internship_letter_correct.pdf)
 + [M.Tech University Transcripts](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/NIT%20Official%20Transcript.pdf)
 + [M.Tech Thesis Published Paper - Modeling of Automotive Thermoelectric Generators](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Paper_Published.pdf)
 + [M.Tech Thesis Paper Published Certificate](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Paper_published_certificate.pdf)
