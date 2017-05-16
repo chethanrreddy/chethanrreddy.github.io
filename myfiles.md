@@ -1,8 +1,7 @@
-﻿My work, CV, transcripts and such:
+﻿CV, Resume:
 
-[Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
-
-[Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
++ [Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
++ [Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
 
 Work:
 
