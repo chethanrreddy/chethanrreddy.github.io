@@ -1,13 +1,13 @@
 ﻿My work, CV, transcripts and such:
 
+[Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
+
+[Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
+
 Work:
 
 + [Bosch Relieving Letter](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Bosch_Relieving_Letter.pdf)
 + [Bosch Service Letter](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Bosch_Service_Certificate.pdf)
-
-[Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
-
-[Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
 
 Doctor of philosophy (Mechanical Engineering - Engineering Mechanics) - Michigan Technological University (USA) - Currently pursuing:
 
