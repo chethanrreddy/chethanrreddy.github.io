@@ -11,7 +11,6 @@ Work:
 Doctor of philosophy (Mechanical Engineering - Engineering Mechanics) - Michigan Technological University (USA) - Currently pursuing:
 
 + [PhD Transcripts (Unofficial)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTU%20Unofficial%20Transcripts.pdf)
-+ [GTA - Evaluating Writing Training](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/GTA_Cert.pdf)
 
 Master of Technology (Mechatronics Engineering) - National Institute of Technology Karnataka, Surathkal (INDIA):
 
@@ -33,6 +32,7 @@ Bachelor of Technology (Mechanical Engineering) - New Horizon College of Enginee
 
 Trainings Undergone:
 
++ [GTA - Evaluating Writing Training](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/GTA_Cert.pdf)
 + [Internship at G.D. Naidu (Coimbatore, India) - Automobile servicing and maintenance](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/G.D.%20Naidu.pdf)
 + [Training at Hindustan Aeronautics Limited, Bangalore (India)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/H.A.L..pdf)
 
