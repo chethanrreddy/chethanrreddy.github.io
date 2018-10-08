@@ -1,4 +1,4 @@
-ï»¿CV, Resume:
+CV, Resume:
 
 + [Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
 + [Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
@@ -33,6 +33,10 @@ Trainings Undergone:
 + [GTA - Training on "Evaluating Writing"](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/GTA_Cert.pdf)
 + [Internship at G.D. Naidu (Coimbatore, India) - Automobile servicing and maintenance](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/G.D.%20Naidu.pdf)
 + [Training at Hindustan Aeronautics Limited, Bangalore (India)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/H.A.L..pdf)
+
+Publications:
+
++ [C. R. Reddy, M. Toub, M. Razmara, M. Shahbakhti, R. D. Robinett, G. Aniba, ÒModeling and Optimal Control of Micro-CSP and a Building HVAC System to Minimize Electricity CostÓ, in ASME 2018 Dynamic Systems and Control Conference (yet to be published).]
 
 Language Tests and Certifications:
 
