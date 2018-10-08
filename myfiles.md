@@ -36,7 +36,7 @@ Trainings Undergone:
 
 Publications:
 
-+ [C. R. Reddy, M. Toub, M. Razmara, M. Shahbakhti, R. D. Robinett, G. Aniba, “Modeling and Optimal Control of Micro-CSP and a Building HVAC System to Minimize Electricity Cost”, in ASME 2018 Dynamic Systems and Control Conference (yet to be published).]
++ C. R. Reddy, M. Toub, M. Razmara, M. Shahbakhti, R. D. Robinett, G. Aniba, “Modeling and Optimal Control of Micro-CSP and a Building HVAC System to Minimize Electricity Cost”, in ASME 2018 Dynamic Systems and Control Conference (yet to be published).
 
 Language Tests and Certifications:
 
