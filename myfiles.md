@@ -37,6 +37,8 @@ Trainings Undergone:
 Publications:
 
 + C. R. Reddy, M. Toub, M. Razmara, M. Shahbakhti, R. D. Robinett, G. Aniba, “Modeling and Optimal Control of Micro-CSP and a Building HVAC System to Minimize Electricity Cost” in ASME 2018 Dynamic Systems and Control Conference (yet to be published).
++ M. Toub, C. R. Reddy, M. Razmara, M. Shahbakhti, R. D. Robinett, G. Aniba, “Model Predictive Control for MicroCSP Integration into a Building HVAC System, in 2018 14th IEEE International Conference on Control and Automation (ICCA). IEEE, 2018, pp. 890-895. [Link](https://ieeexplore.ieee.org/abstract/document/8444186)
++ C. R. Reddy, S. S. Rao, V. Desai, K. Ramachandran, Modeling of an Automotive Thermo-Electric Generator (ATEG), International Journal of Science and Research (IJSR), India Online ISSN, pp.2319-7064, 2013.[Link](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Paper_Published.pdf)
 
 Language Tests and Certifications:
 
