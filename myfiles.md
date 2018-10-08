@@ -19,8 +19,6 @@ Master of Technology (Mechatronics Engineering) - National Institute of Technolo
 + [M.Tech Thesis - Development of Automotive Thermoelectric Generators](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/MTech_Thesis.pdf)
 + [M.Tech Project Internship Certification – Robert Bosch Engineering & Business Solutions Private Limited (RBEI), Bangalore (INDIA)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Mtech_Internship_letter_correct.pdf)
 + [M.Tech University Transcripts](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/NIT%20Official%20Transcript.pdf)
-+ [M.Tech Thesis Published Paper - Modeling of Automotive Thermoelectric Generators](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Paper_Published.pdf)
-+ [M.Tech Thesis Paper Published Certificate](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Paper_published_certificate.pdf)
 
 Bachelor of Technology (Mechanical Engineering) - New Horizon College of Engineering, Bangalore (INDIA):
 
@@ -40,3 +38,4 @@ Language Tests and Certifications:
 
 + [TOEFL Score Report (May 2015)](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/TOEFL_Score_Report.pdf)
 + [German Language 1A Certification](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/German1a_certificate.pdf)
+
