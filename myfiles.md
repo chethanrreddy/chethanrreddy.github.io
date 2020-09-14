@@ -1,7 +1,8 @@
-CV, Resume:
+Summary:
 
 + [Curriculum Vitae](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_CV.pdf)
 + [Resume](https://github.com/chethanrreddy/chethanrreddy.github.io/raw/master/files/Chethan_R_Reddy_Resume.pdf)
++ [Google Scholar](https://scholar.google.com/citations?user=IwmHblYAAAAJ&hl=en)
 
 
 Doctor of philosophy (Mechanical Engineering - Engineering Mechanics) - Michigan Technological University (USA) - Currently pursuing:
